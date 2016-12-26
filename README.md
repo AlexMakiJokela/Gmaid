@@ -17,7 +17,10 @@ Installation:
 
 5) Click "Resources-->Current project's triggers" and set it to run daily at whatever time. 
 
-I don't plan to add any features to this or do any more work on it. However, if you appreciate the new inbox sanity or blood, sweat, and tears that went into writing this ambitious software package, I won't turn down paypal/venmo/squarecash, firstname(starts with A) dot lastname (starts with M and is sort of long) at gmail. Based on past purchase history, dollars will go towards vice, materials for ambitious technical art projects (example: Dr. Brainlove), or rent. 
+I don't plan to add any features to this or do any more work on it. However, if you appreciate the new inbox sanity or blood, sweat, and tears that went into writing this ambitious software package, I won't turn down paypal/venmo/squarecash, firstname(starts with A) dot lastname (starts with M and is sort of long) at gmail. 
+
+Based on my memory, dollars will go towards vice, materials for ambitious technical art projects (example: Dr. Brainlove), or rent. 
 
 <3 
+
 Maki
