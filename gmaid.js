@@ -2,7 +2,7 @@
 //Written sometime in 2016ish
 
 function cleanUp() {
-  var delayDays = 2 // Enter # of days before messages are moved to trash
+  var delayDays = 2 // Enter # of days before messages are moved to archive
   var maxDate = new Date();
   maxDate.setDate(maxDate.getDate()-delayDays);
   var threads = GmailApp.getInboxThreads();
