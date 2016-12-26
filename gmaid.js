@@ -1,3 +1,6 @@
+//Alex Maki-Jokela
+//Written sometime in 2016ish
+
 function cleanUp() {
   var delayDays = 2 // Enter # of days before messages are moved to trash
   var maxDate = new Date();
